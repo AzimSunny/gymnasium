@@ -1,0 +1,370 @@
+@media (min-width:320px) and (max-width:575px){
+  /* ============= Nav =============== */
+  nav .navbar-brand .img {
+     
+    left: -25px;
+    -webkit-transform: skew(-30deg);
+    transform: skew(-30deg) scale(0.65);
+     
+}
+nav  button i{
+    color:#fff;
+    font-size: 24px;
+}
+nav .navbar-collapse {
+    margin-top: 20px;
+}
+nav ul li {
+     
+    text-align: center;
+}
+nav ul li a {
+     
+    font-size: 14px;
+}
+
+/* ========== Banner ============ */
+section.banner-part .banner {
+    padding: 200px 0px 140px;
+}
+section.banner-part .banner h3 {
+    font-size: 25px;
+}
+section.banner-part .banner h1 {
+     
+    font-size: 45px;
+     
+}
+section.banner-part .banner .btn {
+    -webkit-transition: .3s;
+    transition: .3s;
+    font-size: 14px;
+    margin: 20px 5px 0px;
+}
+section.banner-part .slick-dots {
+    left: 47%;
+}
+
+/* ============ About Us ============= */
+
+section.about-part .right p {
+    font-size: 14px;
+}
+
+section.about-part .left .overlay i {
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    font-size: 16px;
+    padding-left: 4px;
+}
+
+ /* ============= Counter =========== */
+ section.counter_up .item h4 {
+    font-size: 24px;
+    margin-bottom: 0px;
+}
+section.counter_up .item p {
+     margin-bottom: 25px;
+}
+
+
+ /* =========== Company slider =========== */
+
+ section.company .next {
+    top: 150%;
+    right: 80px;
+}
+section.company .prev {
+    top: 150%;
+    left: 80px;
+}
+section.company .item img {
+    margin: auto;
+}
+
+section.footer .three p {
+    padding: 11px 5px;
+    margin: 0;
+}
+
+/* =============== Colorfull Tab ================ */
+
+.colorful-tab-menu-item a {
+    padding: 8px 0;
+    font-size: 16px;
+}
+section.tab .colorful-tab-content .main {
+    flex-direction: column;
+}
+section.tab .colorful-tab-content .item {
+    padding: 10px 0px;
+}
+section.tab .colorful-tab-content .item img {
+    width: 40px;
+    height: 40px;
+}
+
+
+
+
+
+ 
+}
+
+
+@media (min-width:576px) and (max-width:767px){
+    /* ============= Nav =============== */
+    nav .navbar-brand .img {
+        left: -15px;
+        -webkit-transform: skew(-30deg);
+        transform: skew(-30deg) scale(0.80);
+    }
+  nav  button i{
+      color:#fff;
+      font-size: 26px;
+  }
+  nav .navbar-collapse {
+      margin-top: 20px;
+  }
+  nav ul li {
+       
+      text-align: center;
+  }
+  nav ul li a {
+       
+      font-size: 16px;
+  }
+  
+  /* ========== Banner ============ */
+  section.banner-part .banner {
+      padding: 200px 0px 140px;
+  }
+  section.banner-part .banner h3 {
+      font-size: 30px;
+  }
+  section.banner-part .banner h1 {
+       
+      font-size: 50px;
+       
+  }
+  section.banner-part .banner .btn {
+      -webkit-transition: .3s;
+      transition: .3s;
+      font-size: 15px;
+      margin: 20px 8px 0px;
+  }
+  section.banner-part .slick-dots {
+      left: 47%;
+  }
+
+
+  /* ============ Gallery part ============= */
+
+  section.gallery-part .img .choto {
+    
+    height: 370px;
+}
+  
+  
+  /* ========== colorfull tab =========== */
+  section.tab .colorful-tab-content .item img {
+     width: 50px;
+     height: 50px;
+} 
+ /* ============== compnay =============== */
+ section.company .item img {
+     
+    margin: 0 auto;
+}
+section.company .next {
+    top: 150%;
+    right: 140px;
+}
+section.company .prev {
+    top: 150%;
+    left:140px;
+}
+  
+  }
+
+  @media (min-width:768px) and (max-width:991px){
+    /* ============= Nav =============== */
+    nav .navbar-brand .img {
+        left: 10px;
+        -webkit-transform: skew(-30deg);
+        transform: skew(-30deg) scale(0.85);
+    }
+  nav  button i{
+      color:#fff;
+      font-size: 30px;
+  }
+  nav .navbar-collapse {
+      margin-top: 20px;
+  }
+  nav ul li {
+       
+      text-align: center;
+  }
+  nav ul li a {
+       
+      font-size: 16px;
+  }
+  
+  /* ========== Banner ============ */
+  section.banner-part .banner {
+      padding: 200px 0px 140px;
+  }
+  section.banner-part .banner h3 {
+    font-size: 40px;
+}
+section.banner-part .banner h1 {
+    font-size: 65px;
+}
+  section.banner-part .banner .btn {
+      -webkit-transition: .3s;
+      transition: .3s;
+      font-size: 16px;
+      margin: 20px 8px 0px;
+  }
+  section.banner-part .slick-dots {
+      left: 47%;
+  }
+  section.banner-part .banner p {
+    font-size: 16px;
+}
+
+
+/* ============== Company =============== */
+
+section.company .item img {
+    margin: 0 auto;
+}
+
+
+ /* ========== Membarship ============= */
+ section.member-part .item .a h4 {
+    font-size: 14px;
+}
+
+section.member-part .item .b h2 {
+    font-size: 25px;
+}
+section.member-part .item .b h2 span {
+    font-size: 18px;
+}
+section.member-part .item .c ul li {
+    font-size: 14px;
+}
+section.member-part .item .d h4 {
+    font-size: 16px;
+}
+
+
+section.counter_up .item h4 {
+    font-size: 30px;
+}
+section.counter_up .item p {
+    font-size: 14px;
+}
+
+
+
+section.company .item img {
+     
+    margin: 0 auto;
+}
+section.company .next {
+    top: 150%;
+    right: 250px;
+}
+section.company .prev {
+    top: 150%;
+    left:250px;
+}
+  
+
+
+
+
+
+    
+
+    
+
+     
+  
+  
+  /* ====================== Responsive End ========================= */
+  }
+
+  @media (min-width:992px) and (max-width:1199px){
+    nav .navbar-brand .img {
+        left: 30px;
+    }
+    nav ul li {
+        padding: 10px 3px !important;
+    }
+    .navbar-light .navbar-nav .nav-link {
+         
+        font-size: 15px;
+    }
+
+    section.about-part .right p {
+        font-size: 14px;
+        margin-bottom: 25px;
+    }
+    
+
+    section.company .item img {
+        margin: auto;
+    }
+    
+    section.company .next {
+        top: 150%;
+        right: 300px;
+    }
+    section.company .prev {
+        top: 150%;
+        left: 300px;
+
+    }
+        
+     
+
+
+  }
+
+
+
+  @media (min-width:1200px) and (max-width:1399px){
+
+    section.company .item img {
+        margin: auto;
+    }
+    
+    section.company .next {
+        top: 150%;
+        right: 440px;
+    }
+    section.company .prev {
+        top: 150%;
+        left: 440px;
+
+    }
+        
+     
+
+
+  }
+
+
+
+  
+
+
+
+
+
+
+   
